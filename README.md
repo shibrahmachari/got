@@ -1,2 +1,1 @@
-here is my first attempt
-here is the test run
+This is basic front end of a GOT fan page
